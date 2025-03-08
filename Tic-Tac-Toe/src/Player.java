@@ -1,5 +1,5 @@
 /**
- * The {@code Player} class represents a player in a game with a name, health bar, and lives.
+ * The Player class represents a player in a game with a name, health bar, and lives.
  * The player can take damage and lose lives based on game events.
  */
 public class Player {
@@ -11,7 +11,7 @@ public class Player {
     private int liveCount;
 
     /**
-     * Constructs a {@code Player} object with the specified name, health bar, and lives.
+     * Constructs a Player object with the specified name, health bar, and lives.
      *
      * @param name the name of the player
      * @param healthBar the initial health value
