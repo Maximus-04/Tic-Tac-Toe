@@ -11,7 +11,7 @@ public class initializeGrid {
     public final int size = 4;
 
     /**
-     * Constructs an {@code initializeGrid} object with the specified dimensions.
+     * Constructs an initializeGrid object with the specified dimensions.
      * If the given dimensions are smaller than the minimum size, they are set to the minimum.
      *
      * @param rows the number of rows in the grid
