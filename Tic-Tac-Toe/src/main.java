@@ -8,7 +8,7 @@ public class main {
     /**
      * The main method that initializes a grid and a player, then displays their details.
      *
-     * @param args command-line arguments (not used)
+     * @param args command-line arguments.
      */
     public static void main(String[] args) {
         // Initialize a grid with specified dimensions
