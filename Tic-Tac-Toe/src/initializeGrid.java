@@ -1,5 +1,5 @@
 /**
- * The {@code initializeGrid} class represents a grid with a minimum size constraint.
+ * The initializeGrid class represents a grid with a minimum size constraint.
  * It ensures that the number of rows and columns does not fall below a specified limit.
  */
 public class initializeGrid {
